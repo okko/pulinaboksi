@@ -44,7 +44,7 @@ var WORDS = [
     "peppi pitkätossu", "paloauto", "parkkipaikka", "puhekupla", "piirakka", "piimä", "pilli", "poliisi", "potta", "puuro", "pöytä", "papukaija", "puhelin", "pizza",
     "quesadilla",
     "rusina", "raketti",
-    "salaatti", "sauna", "sininen", "sipuli", "soittopeli", "suihku", "syksy",
+    "salaatti", "sauna", "sininen", "sipuli", "soittopeli", "suihku", "syksy", "sateentekijä",
     "taika", "talvi", "takka", "talvi", "tarra", "telkkari", "tietokone", "tikkari", "timantti", "trampoliini", "tyyny", "tomaatti",
     "uimahousut",
     "veitsi", "västäräkki", "voltti", "vilja", "varpu", "valkeapää", "vegepöni",
