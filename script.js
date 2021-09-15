@@ -19,7 +19,7 @@ var CHARACTER_PRONOUNCIATIONS = {
     "]": "oikea hakasulje",
     "}": "oikea aaltosulje",
     "≠": "erisuuri",
-    "≈": "likimäärin",
+    "≈": "likimääriiiiiiiiiiin",
     "√": "neliöjuuri",
     "å": "ruotsalainen å"
 };
