@@ -29,8 +29,8 @@ var WORDS = [
     "banaani", "banaani", "banaani", "blimpsisblömpsis böbberöö",
     "celsius", "cowboy",
     "delfiini", "dinosaurus", "donitsi",
-    "etana", "elokuva",
-    "faarao", "farkut",
+    "etana", "elokuva", "erilainen"
+    "faarao", "farkut", "filmi"
     "gerbiili", "gorilla",
     "haarukka", "halla", "hattara", "helle", "helistin", "helmiina", "hunajameloni", "hömppä", "höpsö", "hanna",
     "ilta", "imuri", "intiaani", "isi", "iskä",
