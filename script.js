@@ -45,7 +45,7 @@ var WORDS = [
     "quesadilla",
     "rusina", "raketti", "rotta", "rapu",
     "salaatti", "sauna", "sininen", "sipuli", "soittopeli", "suihku", "syksy",
-    "taika", "talvi", "takka", "talvi", "tarra", "telkkari", "tietokone", "tikkari", "timantti", "trampoliini", "tyyny", "tomaatti",
+    "taika", "talvi", "takka", "talvi", "tarra", "telkkari", "tietokone", "tikkari", "timantti", "trampoliini", "tyyny", "tomaatti", "tofu",
     "uimahousut",
     "veitsi", "västäräkki", "voltti", "vilja", "varpu", "valkeapää", "vegepöni",
     "watti",
