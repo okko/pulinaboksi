@@ -35,7 +35,7 @@ var WORDS = [
     "haarukka", "halla", "hattara", "helle", "helistin", "helmiina", "hunajameloni", "hömppä", "höpsö", "hanna",
     "ilta", "imuri", "intiaani", "isi", "iskä",
     "jekku", "jeti", "jalkapallo", "jakkara", "jukurtti", "ju-na", "jänis", "jäätelö",
-    "kakku", "kameli", "karkki", "kello", "kivi", "kiivi", "kilpikonna", "kuppi", "karhu", "koira", "käärme", "kala",
+    "kakku", "kameli", "karkki", "kello", "kivi", "kiivi", "kilpikonna", "körmy", "kuppi", "karhu", "koira", "käärme", "kala",
     "kana", "kesä", "kevät", "kirsikka", "koko", "kumi", "kännykkä",
     "lamppu", "lapsi", "lasi", "lautanen", "leijona", "leikki", "lentokone", "liukumäki", "lohi", "lohikäärme", "lyhty", "lintu", "logo",
     "makkara", "mansikka", "makarooni", "mulan", "mopo", "myyrä", "muurahainen", "möhköfantti", "mörkö","mamma",
