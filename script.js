@@ -32,7 +32,7 @@ var WORDS = [
     "etana", "elokuva",
     "faarao", "farkut",
     "gerbiili", "gorilla",
-    "haarukka", "halla", "hattara", "helle", "helistin", "helmiina", "hunajameloni", "hömppä", "höpsö", "hanna",
+    "haarukka", "halla", "hattu", "helle", "helistin", "helmiina", "hunajameloni", "hömppä", "höpsö", "hanna",
     "ilta", "imuri", "intiaani", "isi", "iskä",
     "jekku", "jeti", "jalkapallo", "jakkara", "jukurtti", "ju-na", "jänis", "jäätelö",
     "kakku", "kameli", "karkki", "kello", "kivi", "kiivi", "kilpikonna", "kuppi", "karhu", "koira", "käärme", "kala",
