@@ -30,7 +30,7 @@ var WORDS = [
     "celsius", "cowboy",
     "delfiini", "dinosaurus", "donitsi",
     "etana", "elokuva",
-    "faarao", "farkut",
+    "faarao", "farkut", "fillari",
     "gerbiili", "gorilla",
     "haarukka", "halla", "hattara", "helle", "helistin", "helmiina", "hunajameloni", "hömppä", "höpsö", "hanna",
     "ilta", "imuri", "intiaani", "isi", "iskä",
