@@ -25,7 +25,7 @@ var CHARACTER_PRONOUNCIATIONS = {
 };
 
 var WORDS = [
-    "aasi", "aita", "amme", "appelsiini", "aurinko", "auto", "amanda", "appelsiini", "ananas",
+    "auto", "atlas", "aalto", "appelsiini", "aurinko", "auto", "amanda", "appelsiini", "ananas",
     "banaani", "banaani", "banaani", "blimpsisblömpsis böbberöö",
     "celsius", "cowboy",
     "delfiini", "dinosaurus", "donitsi",
