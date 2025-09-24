@@ -42,7 +42,7 @@ var WORDS = [
     "naru", "nökö", "nalle", "nakupelle", "nenä", "norsu", "näk'käri",
     "orava", "omena", "okko", "oja",
     "peppi pitkätossu", "paloauto", "parkkipaikka", "puhekupla", "piirakka", "piimä", "pilli", "poliisi", "potta", "puuro", "pöytä", "papukaija", "puhelin", "pizza",
-    "quesadilla",
+    "quesadilla","qaali"
     "rusina", "raketti", "rotta", "rapu",
     "salaatti", "sauna", "sininen", "sipuli", "soittopeli", "suihku", "syksy",
     "taika", "talvi", "takka", "talvi", "tarra", "telkkari", "tietokone", "tikkari", "timantti", "trampoliini", "tyyny", "tomaatti",
