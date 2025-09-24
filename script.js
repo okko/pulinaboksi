@@ -50,7 +50,7 @@ var WORDS = [
     "veitsi", "västäräkki", "voltti", "vilja", "varpu", "valkeapää", "vegepöni",
     "watti",
     "yö",
-    "zumba",
+    "zebra", "zumba",
     "äiti",
     "öylätti"
 ];
